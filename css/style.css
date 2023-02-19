@@ -1,12 +1,9 @@
 .title1{
   text-align: center;
   color: green;
-
 }
 .text1{
   text-align: right;
-
-
 }
 
 body{
@@ -14,7 +11,6 @@ body{
   border: 10px solid red;
   /* background-color: black; */
 }
-
 #ccc{
   font-style: italic;
 }
